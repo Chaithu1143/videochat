@@ -1,7 +1,3 @@
-# Certainly, here's a description you can use to submit your video chat project on GitHub:
-
----
-
 # VideoChat Project
 
 **Project Description:**
